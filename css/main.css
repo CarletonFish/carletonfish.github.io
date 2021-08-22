@@ -1,0 +1,40 @@
+body {
+	background-color: #E9ECEF;
+	font-family: "Raleway", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+html {
+	cursor: url('../FishBlackCursor.ico'), auto;
+	height: 100%;
+	width: 100%;
+}
+
+#members {
+	margin-top: 60px;
+}
+
+#members img {
+	height: 200px;
+	width: 200px;
+}
+
+#resources {
+	margin-top: 60px;
+}
+
+#resources img {
+	height: 200px;
+	width: 200px;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.jumbotron {
+	padding: 5rem 4rem;
+	background-color: #E9ECEF;
+	border-radius: .3rem;
+}
